@@ -1,0 +1,135 @@
+
+        /* giphy image style start */
+        .one {
+            float: left;
+            width: 50%;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+
+        /* giphy image style end*/
+
+        /* style start for second part  */
+        .two {
+            float: left;
+            width: 50%;
+
+        }
+
+        .text {
+            margin: 10px;
+        }
+
+        .vl {
+            border-left: 6px outset green;
+            border-radius: 5px;
+            height: 85px;
+        }
+
+        /* style end for second part  */
+        /* style start for footer */
+        footer {
+            clear: both;
+            background-color: #ddd;
+            padding: 50px;
+
+        }
+        .margin{
+            margin-top: 50px;
+        }
+
+        /* style start for social link */
+        .web {
+            float: left;
+        }
+
+        .social link {
+            display: flex;
+            justify-content: space-between;
+            margin-left: 10px;
+
+
+        }
+
+        .social link a {
+            text-decoration: none;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 22px;
+            color: #000000;
+
+        }
+
+       
+        .page {
+            float: left;
+            margin-left: 50px;
+
+
+        }
+
+        .page li {
+            list-style-type: none;
+        }
+
+        .page li a {
+            text-decoration: none;
+            justify-content: space-between;
+            margin-top: 5px;
+            margin-bottom: 5px;
+            color: #000000;
+         }
+
+        .page-1 {
+            float: left;
+            margin-left: 20px;
+        }
+
+        .page-1 li {
+            list-style-type: none;
+        }
+
+        .page-1 li a {
+            text-decoration: none;
+            justify-content: space-between;
+            margin-top: 5px;
+            margin-bottom: 5px;
+            color: #000000;
+        }
+
+        .page-2 {
+            float: left;
+            margin-left: 20px;
+        }
+
+        .page-2 li {
+            list-style-type: none;
+        }
+
+        .page-2 li a {
+            text-decoration: none;
+            justify-content: space-between;
+            margin-top: 5px;
+            margin-bottom: 5px;
+            color: #000000;
+        }
+
+        /* style end for list */
+
+        /* style start for button  */
+        .btn {
+            margin-left: 250px;
+            background-color: #000000;
+            color: #fff;
+            padding: 5px;
+            border: 1px solid;
+            padding: 5px;
+            box-shadow: -5px 3px green;
+            cursor: pointer;
+        }
+
+        /* style start for button  */
+
+
+        /* style start for footer */
